@@ -1,0 +1,16 @@
+/.wordpress-org
+/.git
+/.github
+/includes/css/checkout.scss
+/includes/css/payment.scss
+/includes/js/payment.js
+
+_config.yml
+.distignore
+.editorconfig
+.gitignore
+CHANGELOG.md
+phpcs.xml
+README.md
+LICENSE
+todo

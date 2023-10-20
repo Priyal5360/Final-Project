@@ -1,0 +1,297 @@
+# Copyright (C) 2023 WPClever
+# This file is distributed under the same license as the WPC Coupon Listing for WooCommerce plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: WPC Coupon Listing for WooCommerce 1.1.7\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/wpc-coupon-listing\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-08-01T23:27:33+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.5.0\n"
+"X-Domain: wpc-coupon-listing\n"
+
+#. Plugin Name of the plugin
+msgid "WPC Coupon Listing for WooCommerce"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://wpclever.net/"
+msgstr ""
+
+#. Description of the plugin
+msgid "WPC Coupon Listing will display coupons in a list on the cart and checkout page for the buyer easy to use."
+msgstr ""
+
+#. Author of the plugin
+msgid "WPClever"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://wpclever.net"
+msgstr ""
+
+#: includes/class-backend.php:68
+msgid "Thank you for using our plugin! If you are satisfied, please reward it a full five-star %s rating."
+msgstr ""
+
+#: includes/class-backend.php:70
+msgid "Reviews"
+msgstr ""
+
+#: includes/class-backend.php:71
+msgid "Changelog"
+msgstr ""
+
+#: includes/class-backend.php:72
+msgid "Discussion"
+msgstr ""
+
+#: includes/class-backend.php:77
+msgid "Settings updated."
+msgstr ""
+
+#: includes/class-backend.php:83
+#: includes/class-backend.php:367
+msgid "Settings"
+msgstr ""
+
+#: includes/class-backend.php:86
+#: includes/class-backend.php:215
+msgid "Localization"
+msgstr ""
+
+#: includes/class-backend.php:88
+msgid "Essential Kit"
+msgstr ""
+
+#: includes/class-backend.php:107
+msgid "General"
+msgstr ""
+
+#: includes/class-backend.php:111
+msgid "Listing"
+msgstr ""
+
+#: includes/class-backend.php:114
+msgid "All published coupons"
+msgstr ""
+
+#: includes/class-backend.php:115
+msgid "Public coupons only"
+msgstr ""
+
+#: includes/class-backend.php:117
+msgid "You can set a coupon is public when editing a coupon."
+msgstr ""
+
+#: includes/class-backend.php:121
+msgid "Order by"
+msgstr ""
+
+#: includes/class-backend.php:124
+msgid "Date"
+msgstr ""
+
+#: includes/class-backend.php:125
+msgid "Name"
+msgstr ""
+
+#: includes/class-backend.php:130
+msgid "Order"
+msgstr ""
+
+#: includes/class-backend.php:133
+msgid "Ascending"
+msgstr ""
+
+#: includes/class-backend.php:134
+msgid "Descending"
+msgstr ""
+
+#: includes/class-backend.php:140
+msgid "Displaying"
+msgstr ""
+
+#: includes/class-backend.php:144
+#: includes/class-backend.php:245
+msgid "Discount value"
+msgstr ""
+
+#: includes/class-backend.php:147
+#: includes/class-backend.php:156
+#: includes/class-backend.php:174
+#: includes/class-backend.php:183
+msgid "Show"
+msgstr ""
+
+#: includes/class-backend.php:148
+#: includes/class-backend.php:157
+#: includes/class-backend.php:175
+#: includes/class-backend.php:184
+msgid "Hide"
+msgstr ""
+
+#: includes/class-backend.php:153
+msgid "Expiry date"
+msgstr ""
+
+#: includes/class-backend.php:162
+msgid "Countdown for expiry date"
+msgstr ""
+
+#: includes/class-backend.php:165
+msgid "Yes"
+msgstr ""
+
+#: includes/class-backend.php:166
+msgid "No"
+msgstr ""
+
+#: includes/class-backend.php:171
+msgid "Description"
+msgstr ""
+
+#: includes/class-backend.php:180
+msgid "Message"
+msgstr ""
+
+#: includes/class-backend.php:189
+msgid "Suggestion"
+msgstr ""
+
+#: includes/class-backend.php:217
+msgid "Leave blank to use the default text and its equivalent translation in multiple languages."
+msgstr ""
+
+#: includes/class-backend.php:221
+msgid "Button text"
+msgstr ""
+
+#: includes/class-backend.php:223
+#: includes/class-frontend.php:70
+msgid "View Available Coupons"
+msgstr ""
+
+#: includes/class-backend.php:227
+msgid "Heading"
+msgstr ""
+
+#: includes/class-backend.php:229
+#: includes/class-frontend.php:224
+msgid "Select an available coupon below"
+msgstr ""
+
+#: includes/class-backend.php:233
+#: includes/class-backend.php:235
+#: includes/class-frontend.php:212
+msgid "Applied"
+msgstr ""
+
+#: includes/class-backend.php:239
+#: includes/class-backend.php:241
+#: includes/class-frontend.php:191
+msgid "Individual use only"
+msgstr ""
+
+#: includes/class-backend.php:247
+#: includes/class-frontend.php:145
+#: includes/class-frontend.php:153
+msgid "%s Discount"
+msgstr ""
+
+#: includes/class-backend.php:251
+msgid "Product discount value"
+msgstr ""
+
+#: includes/class-backend.php:253
+#: includes/class-frontend.php:149
+msgid "%s Product Discount"
+msgstr ""
+
+#: includes/class-backend.php:257
+msgid "Free shipping"
+msgstr ""
+
+#: includes/class-backend.php:259
+#: includes/class-frontend.php:159
+msgid "Free Shipping"
+msgstr ""
+
+#: includes/class-backend.php:263
+msgid "Expires on"
+msgstr ""
+
+#: includes/class-backend.php:265
+#: includes/class-frontend.php:164
+msgid "Expires on: %s"
+msgstr ""
+
+#: includes/class-backend.php:269
+#: includes/class-backend.php:271
+#: includes/class-frontend.php:164
+msgid "Never expire"
+msgstr ""
+
+#: includes/class-backend.php:275
+msgid "Active in"
+msgstr ""
+
+#: includes/class-backend.php:277
+#: includes/class-frontend.php:60
+msgid "Active in %s"
+msgstr ""
+
+#: includes/class-backend.php:281
+#: includes/class-backend.php:283
+#: includes/class-frontend.php:61
+msgid "Day"
+msgstr ""
+
+#: includes/class-backend.php:287
+#: includes/class-backend.php:289
+#: includes/class-frontend.php:62
+msgid "Days"
+msgstr ""
+
+#: includes/class-backend.php:293
+msgid "Minimum spend"
+msgstr ""
+
+#: includes/class-backend.php:295
+#: includes/class-frontend.php:386
+msgid "The minimum spend for this coupon is %s."
+msgstr ""
+
+#: includes/class-backend.php:299
+msgid "Maximum spend"
+msgstr ""
+
+#: includes/class-backend.php:301
+#: includes/class-frontend.php:392
+msgid "The maximum spend for this coupon is %s."
+msgstr ""
+
+#: includes/class-backend.php:305
+msgid "Empty"
+msgstr ""
+
+#: includes/class-backend.php:307
+#: includes/class-frontend.php:127
+msgid "Have no coupons here!"
+msgstr ""
+
+#: includes/class-backend.php:348
+msgid "Public"
+msgstr ""
+
+#: includes/class-backend.php:349
+msgid "Check this box if the coupon is public and it will be shown on WPC Coupon Listing"
+msgstr ""
+
+#: includes/class-backend.php:383
+msgid "Community support"
+msgstr ""
